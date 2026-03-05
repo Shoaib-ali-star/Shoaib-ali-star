@@ -21,3 +21,29 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoaib-ali-star&show_icons=true&locale=en" alt="shoaib-ali-star" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib-ali-star&" alt="shoaib-ali-star" /></p>
+
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHA1YjVtM3NuZ3p0bHNoZmpjOWFmcTJwaXhtYzl5enBjanhrdHQzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T7Qx28nEdo9NK/giphy.gif" 
+    alt="Banner"
+    width="55%"
+  />
+</p>
+
+<p align="right">
+  ~Anyone Who Tries to Make Everyone Happy Is
+  <span style="color: hotpink;"><b>"Admirable💖</b></span><br>
+  <b>--Luffy😁</b>
+</p>
+
+## Contribution Snake 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
